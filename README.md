@@ -11,7 +11,7 @@ Ce modèle offre un excellent compromis entre performance, simplicité et interp
 # Performances du modèle final :
     • Recall (classe “prometteur”) : 0.87
     • ROC-AUC : 0.74
-    • Exactitude (accuracy) : 0.0.69
+    • Exactitude (accuracy) : 0.69
 Ce recall élevé est cohérent avec le besoin métier qui est de maximiser la détection des joueurs ayant réellement un potentiel élevé.
 Le modèle final est enregistré au format xgb_final.pkl et utilisé dans l’API.
 
